@@ -1,0 +1,4 @@
+include ':compiler-plugin'
+include ':create-plugin'
+include ':app'
+rootProject.name = "ArrowExplorer"
